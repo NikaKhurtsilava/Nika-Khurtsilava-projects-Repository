@@ -35,7 +35,6 @@
             this.btnDepartment = new System.Windows.Forms.Button();
             this.btnPermissions = new System.Windows.Forms.Button();
             this.btnEmployee = new System.Windows.Forms.Button();
-            this.btnTasks = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnSalary
@@ -143,22 +142,6 @@
             this.btnEmployee.UseVisualStyleBackColor = false;
             this.btnEmployee.Click += new System.EventHandler(this.btnEmployee_Click);
             // 
-            // btnTasks
-            // 
-            this.btnTasks.BackColor = System.Drawing.Color.Teal;
-            this.btnTasks.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTasks.ForeColor = System.Drawing.Color.Black;
-            this.btnTasks.Image = global::PERSONELTRACKINGproject.Properties.Resources.tasks;
-            this.btnTasks.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnTasks.Location = new System.Drawing.Point(12, 12);
-            this.btnTasks.Name = "btnTasks";
-            this.btnTasks.Size = new System.Drawing.Size(159, 139);
-            this.btnTasks.TabIndex = 1;
-            this.btnTasks.Text = "Tasks";
-            this.btnTasks.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
-            this.btnTasks.UseVisualStyleBackColor = false;
-            this.btnTasks.Click += new System.EventHandler(this.btnTasks_Click);
-            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -171,7 +154,6 @@
             this.Controls.Add(this.btnDepartment);
             this.Controls.Add(this.btnPermissions);
             this.Controls.Add(this.btnEmployee);
-            this.Controls.Add(this.btnTasks);
             this.Name = "FrmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Employee Tracking";
@@ -189,6 +171,5 @@
         private System.Windows.Forms.Button btnPosition;
         private System.Windows.Forms.Button btnLogout;
         private System.Windows.Forms.Button btnExit;
-        private System.Windows.Forms.Button btnTasks;
     }
 }

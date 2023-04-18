@@ -20,11 +20,9 @@ C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGpr
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmEmployeeList.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmMain.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmPosition.resources
-C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmTaskList.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmPermission.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmPermissionList.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmSalary.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmSalaryList.resources
-C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmTask.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\obj\Debug\PERSONELTRACKINGproject.FrmPositionList.resources
 C:\Users\siqim\source\repos\PERSONELTRACKINGproject\bin\Debug\DAL.dll.config

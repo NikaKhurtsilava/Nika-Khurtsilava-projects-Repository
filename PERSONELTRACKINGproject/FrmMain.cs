@@ -23,12 +23,12 @@ namespace PERSONELTRACKINGproject
         
         private void FrmMain_Load(object sender, EventArgs e)
         {
-            btnTasks.Hide();
+            
             if(!Convert.ToBoolean(UserStatic.isAdmin))
             {
                 
                 btnDepartment.Visible= false;
-                btnTasks.Visible= false;
+                
                 btnLogout.Location = new Point(194, 157);
                 btnExit.Location = new Point(380, 157);
             }
@@ -63,14 +63,7 @@ namespace PERSONELTRACKINGproject
 
         }
 
-        private void btnTasks_Click(object sender, EventArgs e)
-        {
-           //MessageBox.Show("U aren't authorized to use this tab");
-            FrmTaskList frm = new FrmTaskList();
-            this.Hide();
-            frm.ShowDialog();
-            this.Visible = true;
-        }
+        
 
         private void btnSalary_Click(object sender, EventArgs e)
         {
