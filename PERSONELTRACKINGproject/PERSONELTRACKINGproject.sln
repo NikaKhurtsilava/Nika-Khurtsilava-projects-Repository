@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PERSONELTRACKINGproject", "PERSONELTRACKINGproject.csproj", "{571DAA28-754F-4437-92C2-DC553F166C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{11D2E04C-4C74-4558-B903-AC97F0C6F647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{264C04EF-0FA1-4723-9600-DAF747479EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{571DAA28-754F-4437-92C2-DC553F166C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571DAA28-754F-4437-92C2-DC553F166C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571DAA28-754F-4437-92C2-DC553F166C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571DAA28-754F-4437-92C2-DC553F166C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D2E04C-4C74-4558-B903-AC97F0C6F647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D2E04C-4C74-4558-B903-AC97F0C6F647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D2E04C-4C74-4558-B903-AC97F0C6F647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D2E04C-4C74-4558-B903-AC97F0C6F647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264C04EF-0FA1-4723-9600-DAF747479EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264C04EF-0FA1-4723-9600-DAF747479EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264C04EF-0FA1-4723-9600-DAF747479EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264C04EF-0FA1-4723-9600-DAF747479EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13132EE-B66D-4DA0-B2FA-AA44D5716401}
+	EndGlobalSection
+EndGlobal
