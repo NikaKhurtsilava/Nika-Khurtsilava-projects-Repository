@@ -1,0 +1,14 @@
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.runtimeconfig.json
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.genruntimeconfig.cache
+C:\Users\siqim\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
